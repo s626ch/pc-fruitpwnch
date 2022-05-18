@@ -5,7 +5,5 @@
 </div>
 <br><br>
 
-# Installation (for the moment)
-Download the parent repository `fruitpwnch-master` as a zip, then unzip it.<br/>
-Copy this folder `pc-fruitpwnch` into your Powercord `plugins` folder.<br><br>
-Once I move this project to it's own repository,<br>you will be able to easily `git clone` it into your `plugins` folder.
+# Installation 
+Simply run `git clone https://github.com/smolyoshino/pc-fruitpwnch/` within your Powercord plugins folder.
